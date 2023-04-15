@@ -1,2 +1,2 @@
-# tuags_07_css
+# tugas_07_css
 tugas css untuk niomic
